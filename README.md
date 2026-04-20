@@ -36,7 +36,7 @@ Develop a machine learning solution that predicts whether a customer will accept
 
 | Component | Technology |
 |-----------|-----------|
-| **Language** | Python 3.x |
+| **Language** | Python 3 |
 | **Data Processing** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn |
 | **Machine Learning** | Scikit-learn |
@@ -56,9 +56,7 @@ pip install kaggle pandas numpy matplotlib seaborn scikit-learn
 ├── amex_data.csv                           # Raw dataset
 ├── Datascience_CourseWork.ipynb           # Main Jupyter Notebook
 ├── README.md                               # This file
-└── outputs/
-    ├── visualizations/                     # EDA plots and charts
-    └── models/                             # Trained model files
+
 ```
 
 ---
